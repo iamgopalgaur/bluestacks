@@ -1,0 +1,10 @@
+{
+    "@@locale": "en",
+    "tournaments":"Tournaments",
+    "winning":"Winning",
+    "played":"played",
+    "won":"won",
+    "percentage":"percentage",
+    "recommended_for_you":"Recommended for you",
+    "elo_rating":"Elo rating"
+}

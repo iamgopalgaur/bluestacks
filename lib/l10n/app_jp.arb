@@ -1,0 +1,10 @@
+{
+    "@@locale": "ja",
+    "tournaments":"トーナメント",
+    "winning":"勝つ",
+    "played":"遊んだ",
+    "won":"勝利した",
+    "percentage":"パーセント",
+    "recommended_for_you":"あなたにおすすめ",
+    "elo_rating": "評価"
+}
